@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, Data Analytics and Javascript ,DSA with Python, Operating systems and Computer Networks**
+- 🌱 I’m currently learning **JAVA, REACT JS ,MONGODB ,DSA with Python, Tableau ,PowerBI ,ML**
 
-- 💬 Ask me about **HTML,CSS,PYTHON**
+- 💬 Ask me about **HTML,CSS,JAVSCRIPT,PYTHON,JAVA,MYSQL**
 
 - 📫 How to reach me **srilekhanalabolu2005@gmail.com**
 
